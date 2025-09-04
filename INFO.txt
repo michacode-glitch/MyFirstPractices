@@ -1,1 +1,6 @@
-INFO
+print("QUE ONDA GENTE! Este .txt se basa en explicar el objetivo de este repo")
+
+print("Este repo esta hecho para ir subiendo todos mis codigos ya sean de practica o primeros projectos (todo demo) y de esa manera poder ver mi proceso y conectar con gente que le pueda servir mis codigos...")
+
+exit()
+
